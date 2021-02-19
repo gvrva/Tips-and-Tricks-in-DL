@@ -9,3 +9,6 @@ Homeworks and project
 3. PyTorch HW:
     - implementation of ResNet for CIFAR-10 classification
     - implementation of DenseNet for CIFAR-10 classification
+4. TensorBoard HW:
+    - using of TensorBoard for visualization of learning process and tuning of neural network
+    - using Optuna for tuning hyperparameters of neural network
